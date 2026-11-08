@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/openfga-operator/commit/1426008dd3c4fa4a7b9199f9e5198cd0b8fb7725",
       "git:hexsha": "1426008dd3c4fa4a7b9199f9e5198cd0b8fb7725",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T15:00:00.268204+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/openfga-operator/commit/407753c6ab4b3d2317c58c805edb1b5a50d29978",
