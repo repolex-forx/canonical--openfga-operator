@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "openfga-operator",
+  "versions": [
+    {
+      "commit": "1426008dd3c4fa4a7b9199f9e5198cd0b8fb7725",
+      "tag": "",
+      "parsed_at": "2026-11-08T15:00:00.347260+00:00"
+    }
+  ]
+}
