@@ -1,0 +1,7 @@
+[2026-11-08T14:57:53Z] === AST ITERATION 1 START | repo=canonical/openfga-operator sha=1426008d ===
+[2026-11-08T14:57:53Z] [iter=1] PHASE START: ast repo=canonical/openfga-operator sha=1426008d
+[2026-11-08T14:57:53Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T14:58:45Z] [iter=1] AST chunks built count=1 triples=738610
+[2026-11-08T14:58:45Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/1426008dd3c4fa4a7b9199f9e5198cd0b8fb7725/.complete
+[2026-11-08T14:58:45Z] [iter=1] PHASE END: ast elapsed_s=52 elapsed_min=0.9
+[2026-11-08T14:58:45Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
